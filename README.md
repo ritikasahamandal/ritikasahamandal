@@ -58,8 +58,6 @@
 
 ### 🌐 Let’s Connect  
 
-### 🌐 Let’s Connect  
-
 <p align="center">
   <a href="https://github.com/ritikasahamandal">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
