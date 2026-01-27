@@ -1,4 +1,76 @@
-👋 Hi there!
-<h1 align="center">Hi 👋, I'm Ritika</h1> <h3 align="center">A passionate Full-Stack Developer</h3> <p align="center"> I enjoy building web applications from designing clean UIs to developing efficient backend APIs. Currently focused on strengthening my backend skills with Python while sharpening problem-solving abilities. </p>
-🛠️ Languages and Tools
-<p align="left"> <!-- Languages --> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!-- Frontend --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> </a> <!-- Backend --> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <!-- Database --> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=Hi,%20I'm%20Ritika!&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;Python+%7C+FastAPI+%7C+React;Building+Real+World+Projects"/>
+</p>
+
+---
+
+### 👩‍💻 About Me  
+
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212897130-6c6d6a3c-6c52-4f7c-b9d8-6c1a3a78d6ad.gif"/>
+
+- 🎓 CSE Student  
+- 🐍 Backend focused on **Python & APIs**
+- 🧠 Grinding **DSA (slowly but honestly)**
+- 🚀 Building projects that actually *work*
+
+---
+
+### 🛠️ Tech Stack  
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,django" />
+</p>
+
+#### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,render,vscode" />
+</p> 
+
+---
+
+### 📊 GitHub Stats (because yes, flex)  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritikasahamandal&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasahamandal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikasahamandal&theme=tokyo-night"/>
+</p>
+
+---
+
+### 🌐 Let’s Connect  
+
+### 🌐 Let’s Connect  
+
+<p align="center">
+  <a href="https://github.com/ritikasahamandal">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritika-saha-mandal-5414712a6">
+    <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
+</p>
