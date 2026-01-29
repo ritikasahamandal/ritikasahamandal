@@ -43,12 +43,12 @@
 
 ---
 
-### 📊 GitHub Stats (because yes, flex)  
+### 📊 GitHub Stats 
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritikasahamandal&show_icons=true&theme=tokyonight"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikasahamandal&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikasahamandal&theme=tokyo-night"/>
