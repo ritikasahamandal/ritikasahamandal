@@ -13,7 +13,6 @@
 <img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212897130-6c6d6a3c-6c52-4f7c-b9d8-6c1a3a78d6ad.gif"/>
 
 - 🎓 CSE Student  
-- 🐍 Backend focused on **Python & APIs**
 - 🧠 Grinding **DSA (slowly but honestly)**
 - 🚀 Building projects that actually *work*
 
