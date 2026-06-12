@@ -36,7 +36,7 @@
 
 #### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,git,github,render,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase,git,github,render,vscode" />
 </p> 
 
 ---
