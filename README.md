@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;Python+%7C+FastAPI+%7C+React;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=9370DB&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Backend+Enthusiast;Python+%7C+NodeJs+%7C"/>
 </p>
 
 ---
