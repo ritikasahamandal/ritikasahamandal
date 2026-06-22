@@ -21,7 +21,7 @@
 
 #### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
 #### 🎨 Frontend
